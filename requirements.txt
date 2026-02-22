@@ -1,6 +1,7 @@
 # Core Web Framework
 fastapi==0.129.0
 uvicorn==0.40.0
+python-multipart>=0.0.5
 
 # Basic Image Processing (no system dependencies)
 pillow>=9.0.0
