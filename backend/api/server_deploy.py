@@ -13,6 +13,7 @@ from typing import Dict, List, Optional
 from fastapi import FastAPI, File, UploadFile, HTTPException
 from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
+import uvicorn
 
 # Initialize FastAPI app
 app = FastAPI(
