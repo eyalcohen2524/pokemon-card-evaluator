@@ -29,7 +29,7 @@ export default function ScannerScreen() {
   
   // Animations
   const pulseAnim = useRef(new Animated.Value(1)).current;
-  const overlayOpacity = useRef(new Animated.Value(0.7)).current;
+  const overlayOpacity = useRef(new Animated.Value(0.2)).current;
 
   useEffect(() => {
     // Permissions are now handled by useCameraPermissions hook
@@ -210,28 +210,32 @@ export default function ScannerScreen() {
             ]}
           />
           
-          {/* Card Frame */}
+          {/* Card Frame - Transparent */}
           <Animated.View
             style={[
               styles.cardFrame,
               { transform: [{ scale: pulseAnim }] }
             ]}
           >
-            <LinearGradient
-              colors={['#4CAF50', '#45a049']}
-              style={styles.cardFrameInner}
-            >
-              <View style={styles.cardFrameContent}>
-                <Icon name="crop-free" size={40} color="#ffffff" />
-                <Text style={styles.frameText}>
-                  Position card within frame
-                </Text>
-                <Text style={styles.frameSubtext}>
-                  Ensure card is flat and well-lit
-                </Text>
-              </View>
-            </LinearGradient>
+            {/* Just the border outline - completely transparent inside */}
+            <View style={styles.cardFrameContent}>
+              {/* Corner guides */}
+              <View style={styles.cornerGuide} />
+              <View style={[styles.cornerGuide, styles.topRight]} />
+              <View style={[styles.cornerGuide, styles.bottomLeft]} />
+              <View style={[styles.cornerGuide, styles.bottomRight]} />
+            </View>
           </Animated.View>
+          
+          {/* Instructions moved outside frame */}
+          <View style={styles.frameInstructions}>
+            <Text style={styles.frameText}>
+              Position card within frame
+            </Text>
+            <Text style={styles.frameSubtext}>
+              Ensure card is flat and well-lit
+            </Text>
+          </View>
         </View>
 
         {/* Bottom Controls */}
@@ -344,37 +348,77 @@ const styles = StyleSheet.create({
   cardFrame: {
     width: width * 0.8,
     height: (width * 0.8) * 1.4, // Pokemon card aspect ratio
-    borderRadius: 20,
-  },
-  cardFrameInner: {
-    flex: 1,
-    borderRadius: 20,
-    padding: 4,
-  },
-  cardFrameContent: {
-    flex: 1,
-    backgroundColor: 'transparent',
-    borderRadius: 16,
-    borderWidth: 3,
-    borderColor: '#ffffff',
-    borderStyle: 'dashed',
     justifyContent: 'center',
     alignItems: 'center',
-    padding: 20,
+  },
+  cardFrameContent: {
+    width: '100%',
+    height: '100%',
+    borderRadius: 16,
+    borderWidth: 2,
+    borderColor: '#4CAF50',
+    borderStyle: 'dashed',
+    position: 'relative',
+    backgroundColor: 'transparent', // Completely transparent
+  },
+  cornerGuide: {
+    position: 'absolute',
+    width: 20,
+    height: 20,
+    borderColor: '#4CAF50',
+    borderWidth: 3,
+    top: -2,
+    left: -2,
+    borderRightWidth: 0,
+    borderBottomWidth: 0,
+  },
+  topRight: {
+    top: -2,
+    right: -2,
+    left: 'auto',
+    borderLeftWidth: 0,
+    borderBottomWidth: 0,
+    borderRightWidth: 3,
+  },
+  bottomLeft: {
+    bottom: -2,
+    left: -2,
+    top: 'auto',
+    borderRightWidth: 0,
+    borderTopWidth: 0,
+    borderBottomWidth: 3,
+  },
+  bottomRight: {
+    bottom: -2,
+    right: -2,
+    top: 'auto',
+    left: 'auto',
+    borderLeftWidth: 0,
+    borderTopWidth: 0,
+    borderRightWidth: 3,
+    borderBottomWidth: 3,
+  },
+  frameInstructions: {
+    position: 'absolute',
+    bottom: -80,
+    alignItems: 'center',
+    backgroundColor: 'rgba(0,0,0,0.6)',
+    paddingHorizontal: 20,
+    paddingVertical: 10,
+    borderRadius: 15,
   },
   frameText: {
     color: '#ffffff',
-    fontSize: 18,
+    fontSize: 16,
     fontWeight: 'bold',
     textAlign: 'center',
-    marginTop: 10,
   },
   frameSubtext: {
     color: '#ffffff',
-    fontSize: 14,
+    fontSize: 12,
     textAlign: 'center',
-    marginTop: 5,
-    opacity: 0.8,
+    marginTop: 3,
+    opacity: 0.9,
   },
   bottomControls: {
     position: 'absolute',
