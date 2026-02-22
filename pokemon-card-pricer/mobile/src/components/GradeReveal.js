@@ -257,17 +257,21 @@ export default function GradeReveal({ grade, cardName, onComplete }) {
               Analyzing card condition...
             </Text>
             <View style={styles.progressBar}>
-              <Animated.View
-                style={[
-                  styles.progress,
-                  {
-                    width: scaleAnim.interpolate({
-                      inputRange: [0, 1],
-                      outputRange: ['0%', '100%'],
-                    }),
-                  },
-                ]}
-              />
+              <View style={styles.progressContainer}>
+                <Animated.View
+                  style={[
+                    styles.progress,
+                    {
+                      transform: [{
+                        scaleX: scaleAnim.interpolate({
+                          inputRange: [0, 1],
+                          outputRange: [0, 1],
+                        })
+                      }]
+                    },
+                  ]}
+                />
+              </View>
             </View>
           </View>
         </Animated.View>
@@ -391,8 +395,15 @@ const styles = StyleSheet.create({
     height: 4,
     backgroundColor: 'rgba(255,255,255,0.2)',
     borderRadius: 2,
+    overflow: 'hidden',
+  },
+  progressContainer: {
+    width: '100%',
+    height: '100%',
+    alignItems: 'flex-start',
   },
   progress: {
+    width: '100%',
     height: 4,
     backgroundColor: '#4CAF50',
     borderRadius: 2,
