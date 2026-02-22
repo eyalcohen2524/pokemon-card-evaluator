@@ -1,0 +1,305 @@
+{
+  "card_name": "Energy",
+  "set_name": "Base Set",
+  "grade_summary": {
+    "Ungraded": {
+      "count": 14,
+      "min_price": 10.0,
+      "max_price": 699.99,
+      "avg_price": 110.71285714285715,
+      "median_price": 28.29,
+      "recent_sales": [
+        {
+          "price": 20.0,
+          "marketplace": "eBay",
+          "date": "2026-02-16",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Energy+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+        },
+        {
+          "price": 20.0,
+          "marketplace": "eBay",
+          "date": "2026-02-16",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Energy+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+        },
+        {
+          "price": 157.5,
+          "marketplace": "eBay",
+          "date": "2026-02-16",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Energy+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+        },
+        {
+          "price": 10.0,
+          "marketplace": "eBay",
+          "date": "2026-02-16",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Energy+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+        },
+        {
+          "price": 10.0,
+          "marketplace": "eBay",
+          "date": "2026-02-16",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Energy+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+        }
+      ]
+    },
+    "PSA 8": {
+      "count": 1,
+      "min_price": 40.0,
+      "max_price": 40.0,
+      "avg_price": 40.0,
+      "median_price": 40.0,
+      "recent_sales": [
+        {
+          "price": 40.0,
+          "marketplace": "TCGPlayer",
+          "date": "2026-02-16",
+          "url": "https://tcgplayer.com/search/Energy%20Base%20Set"
+        }
+      ]
+    },
+    "PSA 9": {
+      "count": 2,
+      "min_price": 70.0,
+      "max_price": 180.0,
+      "avg_price": 125.0,
+      "median_price": 180.0,
+      "recent_sales": [
+        {
+          "price": 70.0,
+          "marketplace": "TCGPlayer",
+          "date": "2026-02-16",
+          "url": "https://tcgplayer.com/search/Energy%20Base%20Set"
+        },
+        {
+          "price": 180.0,
+          "marketplace": "PWCC",
+          "date": "2026-02-16",
+          "url": "https://pwccmarketplace.com/search/Energy%20Base%20Set"
+        }
+      ]
+    },
+    "PSA 10": {
+      "count": 2,
+      "min_price": 120.0,
+      "max_price": 250.0,
+      "avg_price": 185.0,
+      "median_price": 250.0,
+      "recent_sales": [
+        {
+          "price": 120.0,
+          "marketplace": "TCGPlayer",
+          "date": "2026-02-16",
+          "url": "https://tcgplayer.com/search/Energy%20Base%20Set"
+        },
+        {
+          "price": 250.0,
+          "marketplace": "PWCC",
+          "date": "2026-02-16",
+          "url": "https://pwccmarketplace.com/search/Energy%20Base%20Set"
+        }
+      ]
+    },
+    "BGS 9.5": {
+      "count": 1,
+      "min_price": 180.0,
+      "max_price": 180.0,
+      "avg_price": 180.0,
+      "median_price": 180.0,
+      "recent_sales": [
+        {
+          "price": 180.0,
+          "marketplace": "PWCC",
+          "date": "2026-02-16",
+          "url": "https://pwccmarketplace.com/search/Energy%20Base%20Set"
+        }
+      ]
+    },
+    "BGS 10": {
+      "count": 1,
+      "min_price": 250.0,
+      "max_price": 250.0,
+      "avg_price": 250.0,
+      "median_price": 250.0,
+      "recent_sales": [
+        {
+          "price": 250.0,
+          "marketplace": "PWCC",
+          "date": "2026-02-16",
+          "url": "https://pwccmarketplace.com/search/Energy%20Base%20Set"
+        }
+      ]
+    }
+  },
+  "total_listings": 21,
+  "last_updated": "2026-02-16T21:42:57.259786",
+  "cache_expires": "2026-02-17T03:42:57.259794",
+  "raw_data": [
+    {
+      "marketplace": "eBay",
+      "title": "Energy Base Set - Sold Listing",
+      "price": 20.0,
+      "grade": "Ungraded",
+      "date": "2026-02-16",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Energy+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Energy Base Set - Sold Listing",
+      "price": 20.0,
+      "grade": "Ungraded",
+      "date": "2026-02-16",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Energy+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Energy Base Set - Sold Listing",
+      "price": 157.5,
+      "grade": "Ungraded",
+      "date": "2026-02-16",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Energy+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Energy Base Set - Sold Listing",
+      "price": 10.0,
+      "grade": "Ungraded",
+      "date": "2026-02-16",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Energy+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Energy Base Set - Sold Listing",
+      "price": 10.0,
+      "grade": "Ungraded",
+      "date": "2026-02-16",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Energy+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Energy Base Set - Sold Listing",
+      "price": 324.95,
+      "grade": "Ungraded",
+      "date": "2026-02-16",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Energy+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Energy Base Set - Sold Listing",
+      "price": 10.71,
+      "grade": "Ungraded",
+      "date": "2026-02-16",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Energy+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Energy Base Set - Sold Listing",
+      "price": 699.99,
+      "grade": "Ungraded",
+      "date": "2026-02-16",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Energy+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Energy Base Set - Sold Listing",
+      "price": 119.99,
+      "grade": "Ungraded",
+      "date": "2026-02-16",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Energy+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Energy Base Set - Sold Listing",
+      "price": 15.55,
+      "grade": "Ungraded",
+      "date": "2026-02-16",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Energy+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Energy Base Set - Sold Listing",
+      "price": 33.01,
+      "grade": "Ungraded",
+      "date": "2026-02-16",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Energy+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Energy Base Set - Sold Listing",
+      "price": 28.29,
+      "grade": "Ungraded",
+      "date": "2026-02-16",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Energy+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Energy Base Set - Sold Listing",
+      "price": 79.99,
+      "grade": "Ungraded",
+      "date": "2026-02-16",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Energy+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "TCGPlayer",
+      "title": "Energy Base Set - Ungraded",
+      "price": 20.0,
+      "grade": "Ungraded",
+      "date": "2026-02-16",
+      "url": "https://tcgplayer.com/search/Energy%20Base%20Set"
+    },
+    {
+      "marketplace": "TCGPlayer",
+      "title": "Energy Base Set - PSA 8",
+      "price": 40.0,
+      "grade": "PSA 8",
+      "date": "2026-02-16",
+      "url": "https://tcgplayer.com/search/Energy%20Base%20Set"
+    },
+    {
+      "marketplace": "TCGPlayer",
+      "title": "Energy Base Set - PSA 9",
+      "price": 70.0,
+      "grade": "PSA 9",
+      "date": "2026-02-16",
+      "url": "https://tcgplayer.com/search/Energy%20Base%20Set"
+    },
+    {
+      "marketplace": "TCGPlayer",
+      "title": "Energy Base Set - PSA 10",
+      "price": 120.0,
+      "grade": "PSA 10",
+      "date": "2026-02-16",
+      "url": "https://tcgplayer.com/search/Energy%20Base%20Set"
+    },
+    {
+      "marketplace": "PWCC",
+      "title": "Energy Base Set PSA 9",
+      "price": 180.0,
+      "grade": "PSA 9",
+      "date": "2026-02-16",
+      "url": "https://pwccmarketplace.com/search/Energy%20Base%20Set"
+    },
+    {
+      "marketplace": "PWCC",
+      "title": "Energy Base Set PSA 10",
+      "price": 250.0,
+      "grade": "PSA 10",
+      "date": "2026-02-16",
+      "url": "https://pwccmarketplace.com/search/Energy%20Base%20Set"
+    },
+    {
+      "marketplace": "PWCC",
+      "title": "Energy Base Set BGS 9.5",
+      "price": 180.0,
+      "grade": "BGS 9.5",
+      "date": "2026-02-16",
+      "url": "https://pwccmarketplace.com/search/Energy%20Base%20Set"
+    },
+    {
+      "marketplace": "PWCC",
+      "title": "Energy Base Set BGS 10",
+      "price": 250.0,
+      "grade": "BGS 10",
+      "date": "2026-02-16",
+      "url": "https://pwccmarketplace.com/search/Energy%20Base%20Set"
+    }
+  ]
+}

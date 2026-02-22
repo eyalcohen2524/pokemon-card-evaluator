@@ -1,0 +1,27 @@
+# Computer Vision & Image Processing
+opencv-python
+pillow
+numpy
+
+# OCR
+pytesseract
+easyocr
+
+# Web Framework
+fastapi
+uvicorn
+
+# Data & ML
+pandas
+scikit-learn
+
+# Database
+psycopg2-binary
+sqlalchemy
+
+# Web Scraping
+requests
+beautifulsoup4
+
+# Utilities
+python-dotenv

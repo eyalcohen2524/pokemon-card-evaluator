@@ -1,0 +1,321 @@
+{
+  "card_name": "Mewtwo",
+  "set_name": "Base Set",
+  "grade_summary": {
+    "Ungraded": {
+      "count": 16,
+      "min_price": 14.99,
+      "max_price": 699.99,
+      "avg_price": 108.42,
+      "median_price": 59.99,
+      "recent_sales": [
+        {
+          "price": 20.0,
+          "marketplace": "eBay",
+          "date": "2026-02-21",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Mewtwo+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+        },
+        {
+          "price": 20.0,
+          "marketplace": "eBay",
+          "date": "2026-02-21",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Mewtwo+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+        },
+        {
+          "price": 35.0,
+          "marketplace": "eBay",
+          "date": "2026-02-21",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Mewtwo+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+        },
+        {
+          "price": 35.0,
+          "marketplace": "eBay",
+          "date": "2026-02-21",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Mewtwo+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+        },
+        {
+          "price": 75.0,
+          "marketplace": "eBay",
+          "date": "2026-02-21",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Mewtwo+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+        }
+      ]
+    },
+    "PSA 8": {
+      "count": 1,
+      "min_price": 40.0,
+      "max_price": 40.0,
+      "avg_price": 40.0,
+      "median_price": 40.0,
+      "recent_sales": [
+        {
+          "price": 40.0,
+          "marketplace": "TCGPlayer",
+          "date": "2026-02-21",
+          "url": "https://tcgplayer.com/search/Mewtwo%20Base%20Set"
+        }
+      ]
+    },
+    "PSA 9": {
+      "count": 2,
+      "min_price": 70.0,
+      "max_price": 180.0,
+      "avg_price": 125.0,
+      "median_price": 180.0,
+      "recent_sales": [
+        {
+          "price": 70.0,
+          "marketplace": "TCGPlayer",
+          "date": "2026-02-21",
+          "url": "https://tcgplayer.com/search/Mewtwo%20Base%20Set"
+        },
+        {
+          "price": 180.0,
+          "marketplace": "PWCC",
+          "date": "2026-02-21",
+          "url": "https://pwccmarketplace.com/search/Mewtwo%20Base%20Set"
+        }
+      ]
+    },
+    "PSA 10": {
+      "count": 2,
+      "min_price": 120.0,
+      "max_price": 250.0,
+      "avg_price": 185.0,
+      "median_price": 250.0,
+      "recent_sales": [
+        {
+          "price": 120.0,
+          "marketplace": "TCGPlayer",
+          "date": "2026-02-21",
+          "url": "https://tcgplayer.com/search/Mewtwo%20Base%20Set"
+        },
+        {
+          "price": 250.0,
+          "marketplace": "PWCC",
+          "date": "2026-02-21",
+          "url": "https://pwccmarketplace.com/search/Mewtwo%20Base%20Set"
+        }
+      ]
+    },
+    "BGS 9.5": {
+      "count": 1,
+      "min_price": 180.0,
+      "max_price": 180.0,
+      "avg_price": 180.0,
+      "median_price": 180.0,
+      "recent_sales": [
+        {
+          "price": 180.0,
+          "marketplace": "PWCC",
+          "date": "2026-02-21",
+          "url": "https://pwccmarketplace.com/search/Mewtwo%20Base%20Set"
+        }
+      ]
+    },
+    "BGS 10": {
+      "count": 1,
+      "min_price": 250.0,
+      "max_price": 250.0,
+      "avg_price": 250.0,
+      "median_price": 250.0,
+      "recent_sales": [
+        {
+          "price": 250.0,
+          "marketplace": "PWCC",
+          "date": "2026-02-21",
+          "url": "https://pwccmarketplace.com/search/Mewtwo%20Base%20Set"
+        }
+      ]
+    }
+  },
+  "total_listings": 23,
+  "last_updated": "2026-02-21T17:22:32.844645",
+  "cache_expires": "2026-02-21T19:22:32.844672",
+  "raw_data": [
+    {
+      "marketplace": "eBay",
+      "title": "Mewtwo Base Set - Sold Listing",
+      "price": 20.0,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Mewtwo+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Mewtwo Base Set - Sold Listing",
+      "price": 20.0,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Mewtwo+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Mewtwo Base Set - Sold Listing",
+      "price": 35.0,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Mewtwo+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Mewtwo Base Set - Sold Listing",
+      "price": 35.0,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Mewtwo+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Mewtwo Base Set - Sold Listing",
+      "price": 75.0,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Mewtwo+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Mewtwo Base Set - Sold Listing",
+      "price": 99.99,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Mewtwo+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Mewtwo Base Set - Sold Listing",
+      "price": 19.99,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Mewtwo+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Mewtwo Base Set - Sold Listing",
+      "price": 99.99,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Mewtwo+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Mewtwo Base Set - Sold Listing",
+      "price": 14.99,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Mewtwo+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Mewtwo Base Set - Sold Listing",
+      "price": 20.0,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Mewtwo+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Mewtwo Base Set - Sold Listing",
+      "price": 324.95,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Mewtwo+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Mewtwo Base Set - Sold Listing",
+      "price": 699.99,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Mewtwo+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Mewtwo Base Set - Sold Listing",
+      "price": 59.99,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Mewtwo+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Mewtwo Base Set - Sold Listing",
+      "price": 61.99,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Mewtwo+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Mewtwo Base Set - Sold Listing",
+      "price": 127.84,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Mewtwo+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "TCGPlayer",
+      "title": "Mewtwo Base Set - Ungraded",
+      "price": 20.0,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://tcgplayer.com/search/Mewtwo%20Base%20Set"
+    },
+    {
+      "marketplace": "TCGPlayer",
+      "title": "Mewtwo Base Set - PSA 8",
+      "price": 40.0,
+      "grade": "PSA 8",
+      "date": "2026-02-21",
+      "url": "https://tcgplayer.com/search/Mewtwo%20Base%20Set"
+    },
+    {
+      "marketplace": "TCGPlayer",
+      "title": "Mewtwo Base Set - PSA 9",
+      "price": 70.0,
+      "grade": "PSA 9",
+      "date": "2026-02-21",
+      "url": "https://tcgplayer.com/search/Mewtwo%20Base%20Set"
+    },
+    {
+      "marketplace": "TCGPlayer",
+      "title": "Mewtwo Base Set - PSA 10",
+      "price": 120.0,
+      "grade": "PSA 10",
+      "date": "2026-02-21",
+      "url": "https://tcgplayer.com/search/Mewtwo%20Base%20Set"
+    },
+    {
+      "marketplace": "PWCC",
+      "title": "Mewtwo Base Set PSA 9",
+      "price": 180.0,
+      "grade": "PSA 9",
+      "date": "2026-02-21",
+      "url": "https://pwccmarketplace.com/search/Mewtwo%20Base%20Set"
+    },
+    {
+      "marketplace": "PWCC",
+      "title": "Mewtwo Base Set PSA 10",
+      "price": 250.0,
+      "grade": "PSA 10",
+      "date": "2026-02-21",
+      "url": "https://pwccmarketplace.com/search/Mewtwo%20Base%20Set"
+    },
+    {
+      "marketplace": "PWCC",
+      "title": "Mewtwo Base Set BGS 9.5",
+      "price": 180.0,
+      "grade": "BGS 9.5",
+      "date": "2026-02-21",
+      "url": "https://pwccmarketplace.com/search/Mewtwo%20Base%20Set"
+    },
+    {
+      "marketplace": "PWCC",
+      "title": "Mewtwo Base Set BGS 10",
+      "price": 250.0,
+      "grade": "BGS 10",
+      "date": "2026-02-21",
+      "url": "https://pwccmarketplace.com/search/Mewtwo%20Base%20Set"
+    }
+  ]
+}

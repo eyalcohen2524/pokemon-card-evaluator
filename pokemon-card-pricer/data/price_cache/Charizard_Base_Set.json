@@ -1,0 +1,321 @@
+{
+  "card_name": "Charizard",
+  "set_name": "Base Set",
+  "grade_summary": {
+    "Ungraded": {
+      "count": 16,
+      "min_price": 20.0,
+      "max_price": 760.01,
+      "avg_price": 332.745625,
+      "median_price": 310.0,
+      "recent_sales": [
+        {
+          "price": 20.0,
+          "marketplace": "eBay",
+          "date": "2026-02-16",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+        },
+        {
+          "price": 20.0,
+          "marketplace": "eBay",
+          "date": "2026-02-16",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+        },
+        {
+          "price": 290.0,
+          "marketplace": "eBay",
+          "date": "2026-02-16",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+        },
+        {
+          "price": 290.0,
+          "marketplace": "eBay",
+          "date": "2026-02-16",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+        },
+        {
+          "price": 500.0,
+          "marketplace": "eBay",
+          "date": "2026-02-16",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+        }
+      ]
+    },
+    "PSA 8": {
+      "count": 1,
+      "min_price": 300.0,
+      "max_price": 300.0,
+      "avg_price": 300.0,
+      "median_price": 300.0,
+      "recent_sales": [
+        {
+          "price": 300.0,
+          "marketplace": "TCGPlayer",
+          "date": "2026-02-16",
+          "url": "https://tcgplayer.com/search/Charizard%20Base%20Set"
+        }
+      ]
+    },
+    "PSA 9": {
+      "count": 2,
+      "min_price": 525.0,
+      "max_price": 900.0,
+      "avg_price": 712.5,
+      "median_price": 900.0,
+      "recent_sales": [
+        {
+          "price": 525.0,
+          "marketplace": "TCGPlayer",
+          "date": "2026-02-16",
+          "url": "https://tcgplayer.com/search/Charizard%20Base%20Set"
+        },
+        {
+          "price": 900.0,
+          "marketplace": "PWCC",
+          "date": "2026-02-16",
+          "url": "https://pwccmarketplace.com/search/Charizard%20Base%20Set"
+        }
+      ]
+    },
+    "PSA 10": {
+      "count": 2,
+      "min_price": 900.0,
+      "max_price": 1250.0,
+      "avg_price": 1075.0,
+      "median_price": 1250.0,
+      "recent_sales": [
+        {
+          "price": 900.0,
+          "marketplace": "TCGPlayer",
+          "date": "2026-02-16",
+          "url": "https://tcgplayer.com/search/Charizard%20Base%20Set"
+        },
+        {
+          "price": 1250.0,
+          "marketplace": "PWCC",
+          "date": "2026-02-16",
+          "url": "https://pwccmarketplace.com/search/Charizard%20Base%20Set"
+        }
+      ]
+    },
+    "BGS 9.5": {
+      "count": 1,
+      "min_price": 900.0,
+      "max_price": 900.0,
+      "avg_price": 900.0,
+      "median_price": 900.0,
+      "recent_sales": [
+        {
+          "price": 900.0,
+          "marketplace": "PWCC",
+          "date": "2026-02-16",
+          "url": "https://pwccmarketplace.com/search/Charizard%20Base%20Set"
+        }
+      ]
+    },
+    "BGS 10": {
+      "count": 1,
+      "min_price": 1250.0,
+      "max_price": 1250.0,
+      "avg_price": 1250.0,
+      "median_price": 1250.0,
+      "recent_sales": [
+        {
+          "price": 1250.0,
+          "marketplace": "PWCC",
+          "date": "2026-02-16",
+          "url": "https://pwccmarketplace.com/search/Charizard%20Base%20Set"
+        }
+      ]
+    }
+  },
+  "total_listings": 23,
+  "last_updated": "2026-02-16T21:42:51.197051",
+  "cache_expires": "2026-02-16T23:42:51.197060",
+  "raw_data": [
+    {
+      "marketplace": "eBay",
+      "title": "Charizard Base Set - Sold Listing",
+      "price": 20.0,
+      "grade": "Ungraded",
+      "date": "2026-02-16",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Charizard Base Set - Sold Listing",
+      "price": 20.0,
+      "grade": "Ungraded",
+      "date": "2026-02-16",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Charizard Base Set - Sold Listing",
+      "price": 290.0,
+      "grade": "Ungraded",
+      "date": "2026-02-16",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Charizard Base Set - Sold Listing",
+      "price": 290.0,
+      "grade": "Ungraded",
+      "date": "2026-02-16",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Charizard Base Set - Sold Listing",
+      "price": 500.0,
+      "grade": "Ungraded",
+      "date": "2026-02-16",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Charizard Base Set - Sold Listing",
+      "price": 260.0,
+      "grade": "Ungraded",
+      "date": "2026-02-16",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Charizard Base Set - Sold Listing",
+      "price": 760.01,
+      "grade": "Ungraded",
+      "date": "2026-02-16",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Charizard Base Set - Sold Listing",
+      "price": 325.0,
+      "grade": "Ungraded",
+      "date": "2026-02-16",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Charizard Base Set - Sold Listing",
+      "price": 310.0,
+      "grade": "Ungraded",
+      "date": "2026-02-16",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Charizard Base Set - Sold Listing",
+      "price": 275.0,
+      "grade": "Ungraded",
+      "date": "2026-02-16",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Charizard Base Set - Sold Listing",
+      "price": 299.99,
+      "grade": "Ungraded",
+      "date": "2026-02-16",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Charizard Base Set - Sold Listing",
+      "price": 399.99,
+      "grade": "Ungraded",
+      "date": "2026-02-16",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Charizard Base Set - Sold Listing",
+      "price": 324.95,
+      "grade": "Ungraded",
+      "date": "2026-02-16",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Charizard Base Set - Sold Listing",
+      "price": 399.0,
+      "grade": "Ungraded",
+      "date": "2026-02-16",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Charizard Base Set - Sold Listing",
+      "price": 699.99,
+      "grade": "Ungraded",
+      "date": "2026-02-16",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "TCGPlayer",
+      "title": "Charizard Base Set - Ungraded",
+      "price": 150.0,
+      "grade": "Ungraded",
+      "date": "2026-02-16",
+      "url": "https://tcgplayer.com/search/Charizard%20Base%20Set"
+    },
+    {
+      "marketplace": "TCGPlayer",
+      "title": "Charizard Base Set - PSA 8",
+      "price": 300.0,
+      "grade": "PSA 8",
+      "date": "2026-02-16",
+      "url": "https://tcgplayer.com/search/Charizard%20Base%20Set"
+    },
+    {
+      "marketplace": "TCGPlayer",
+      "title": "Charizard Base Set - PSA 9",
+      "price": 525.0,
+      "grade": "PSA 9",
+      "date": "2026-02-16",
+      "url": "https://tcgplayer.com/search/Charizard%20Base%20Set"
+    },
+    {
+      "marketplace": "TCGPlayer",
+      "title": "Charizard Base Set - PSA 10",
+      "price": 900.0,
+      "grade": "PSA 10",
+      "date": "2026-02-16",
+      "url": "https://tcgplayer.com/search/Charizard%20Base%20Set"
+    },
+    {
+      "marketplace": "PWCC",
+      "title": "Charizard Base Set PSA 9",
+      "price": 900.0,
+      "grade": "PSA 9",
+      "date": "2026-02-16",
+      "url": "https://pwccmarketplace.com/search/Charizard%20Base%20Set"
+    },
+    {
+      "marketplace": "PWCC",
+      "title": "Charizard Base Set PSA 10",
+      "price": 1250.0,
+      "grade": "PSA 10",
+      "date": "2026-02-16",
+      "url": "https://pwccmarketplace.com/search/Charizard%20Base%20Set"
+    },
+    {
+      "marketplace": "PWCC",
+      "title": "Charizard Base Set BGS 9.5",
+      "price": 900.0,
+      "grade": "BGS 9.5",
+      "date": "2026-02-16",
+      "url": "https://pwccmarketplace.com/search/Charizard%20Base%20Set"
+    },
+    {
+      "marketplace": "PWCC",
+      "title": "Charizard Base Set BGS 10",
+      "price": 1250.0,
+      "grade": "BGS 10",
+      "date": "2026-02-16",
+      "url": "https://pwccmarketplace.com/search/Charizard%20Base%20Set"
+    }
+  ]
+}

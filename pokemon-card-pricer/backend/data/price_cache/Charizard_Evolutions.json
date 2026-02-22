@@ -1,0 +1,321 @@
+{
+  "card_name": "Charizard",
+  "set_name": "Evolutions",
+  "grade_summary": {
+    "Ungraded": {
+      "count": 16,
+      "min_price": 20.0,
+      "max_price": 599.99,
+      "avg_price": 100.69625,
+      "median_price": 59.99,
+      "recent_sales": [
+        {
+          "price": 20.0,
+          "marketplace": "eBay",
+          "date": "2026-02-21",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Evolutions+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+        },
+        {
+          "price": 20.0,
+          "marketplace": "eBay",
+          "date": "2026-02-21",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Evolutions+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+        },
+        {
+          "price": 35.0,
+          "marketplace": "eBay",
+          "date": "2026-02-21",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Evolutions+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+        },
+        {
+          "price": 35.0,
+          "marketplace": "eBay",
+          "date": "2026-02-21",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Evolutions+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+        },
+        {
+          "price": 75.0,
+          "marketplace": "eBay",
+          "date": "2026-02-21",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Evolutions+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+        }
+      ]
+    },
+    "PSA 8": {
+      "count": 1,
+      "min_price": 300.0,
+      "max_price": 300.0,
+      "avg_price": 300.0,
+      "median_price": 300.0,
+      "recent_sales": [
+        {
+          "price": 300.0,
+          "marketplace": "TCGPlayer",
+          "date": "2026-02-21",
+          "url": "https://tcgplayer.com/search/Charizard%20Evolutions"
+        }
+      ]
+    },
+    "PSA 9": {
+      "count": 2,
+      "min_price": 525.0,
+      "max_price": 900.0,
+      "avg_price": 712.5,
+      "median_price": 900.0,
+      "recent_sales": [
+        {
+          "price": 525.0,
+          "marketplace": "TCGPlayer",
+          "date": "2026-02-21",
+          "url": "https://tcgplayer.com/search/Charizard%20Evolutions"
+        },
+        {
+          "price": 900.0,
+          "marketplace": "PWCC",
+          "date": "2026-02-21",
+          "url": "https://pwccmarketplace.com/search/Charizard%20Evolutions"
+        }
+      ]
+    },
+    "PSA 10": {
+      "count": 2,
+      "min_price": 900.0,
+      "max_price": 1250.0,
+      "avg_price": 1075.0,
+      "median_price": 1250.0,
+      "recent_sales": [
+        {
+          "price": 900.0,
+          "marketplace": "TCGPlayer",
+          "date": "2026-02-21",
+          "url": "https://tcgplayer.com/search/Charizard%20Evolutions"
+        },
+        {
+          "price": 1250.0,
+          "marketplace": "PWCC",
+          "date": "2026-02-21",
+          "url": "https://pwccmarketplace.com/search/Charizard%20Evolutions"
+        }
+      ]
+    },
+    "BGS 9.5": {
+      "count": 1,
+      "min_price": 900.0,
+      "max_price": 900.0,
+      "avg_price": 900.0,
+      "median_price": 900.0,
+      "recent_sales": [
+        {
+          "price": 900.0,
+          "marketplace": "PWCC",
+          "date": "2026-02-21",
+          "url": "https://pwccmarketplace.com/search/Charizard%20Evolutions"
+        }
+      ]
+    },
+    "BGS 10": {
+      "count": 1,
+      "min_price": 1250.0,
+      "max_price": 1250.0,
+      "avg_price": 1250.0,
+      "median_price": 1250.0,
+      "recent_sales": [
+        {
+          "price": 1250.0,
+          "marketplace": "PWCC",
+          "date": "2026-02-21",
+          "url": "https://pwccmarketplace.com/search/Charizard%20Evolutions"
+        }
+      ]
+    }
+  },
+  "total_listings": 23,
+  "last_updated": "2026-02-21T17:22:21.627420",
+  "cache_expires": "2026-02-21T19:22:21.627438",
+  "raw_data": [
+    {
+      "marketplace": "eBay",
+      "title": "Charizard Evolutions - Sold Listing",
+      "price": 20.0,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Evolutions+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Charizard Evolutions - Sold Listing",
+      "price": 20.0,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Evolutions+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Charizard Evolutions - Sold Listing",
+      "price": 35.0,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Evolutions+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Charizard Evolutions - Sold Listing",
+      "price": 35.0,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Evolutions+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Charizard Evolutions - Sold Listing",
+      "price": 75.0,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Evolutions+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Charizard Evolutions - Sold Listing",
+      "price": 199.99,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Evolutions+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Charizard Evolutions - Sold Listing",
+      "price": 599.99,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Evolutions+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Charizard Evolutions - Sold Listing",
+      "price": 51.0,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Evolutions+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Charizard Evolutions - Sold Listing",
+      "price": 71.0,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Evolutions+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Charizard Evolutions - Sold Listing",
+      "price": 69.99,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Evolutions+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Charizard Evolutions - Sold Listing",
+      "price": 49.99,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Evolutions+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Charizard Evolutions - Sold Listing",
+      "price": 88.0,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Evolutions+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Charizard Evolutions - Sold Listing",
+      "price": 45.75,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Evolutions+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Charizard Evolutions - Sold Listing",
+      "price": 40.44,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Evolutions+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "eBay",
+      "title": "Charizard Evolutions - Sold Listing",
+      "price": 59.99,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Evolutions+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+    },
+    {
+      "marketplace": "TCGPlayer",
+      "title": "Charizard Evolutions - Ungraded",
+      "price": 150.0,
+      "grade": "Ungraded",
+      "date": "2026-02-21",
+      "url": "https://tcgplayer.com/search/Charizard%20Evolutions"
+    },
+    {
+      "marketplace": "TCGPlayer",
+      "title": "Charizard Evolutions - PSA 8",
+      "price": 300.0,
+      "grade": "PSA 8",
+      "date": "2026-02-21",
+      "url": "https://tcgplayer.com/search/Charizard%20Evolutions"
+    },
+    {
+      "marketplace": "TCGPlayer",
+      "title": "Charizard Evolutions - PSA 9",
+      "price": 525.0,
+      "grade": "PSA 9",
+      "date": "2026-02-21",
+      "url": "https://tcgplayer.com/search/Charizard%20Evolutions"
+    },
+    {
+      "marketplace": "TCGPlayer",
+      "title": "Charizard Evolutions - PSA 10",
+      "price": 900.0,
+      "grade": "PSA 10",
+      "date": "2026-02-21",
+      "url": "https://tcgplayer.com/search/Charizard%20Evolutions"
+    },
+    {
+      "marketplace": "PWCC",
+      "title": "Charizard Evolutions PSA 9",
+      "price": 900.0,
+      "grade": "PSA 9",
+      "date": "2026-02-21",
+      "url": "https://pwccmarketplace.com/search/Charizard%20Evolutions"
+    },
+    {
+      "marketplace": "PWCC",
+      "title": "Charizard Evolutions PSA 10",
+      "price": 1250.0,
+      "grade": "PSA 10",
+      "date": "2026-02-21",
+      "url": "https://pwccmarketplace.com/search/Charizard%20Evolutions"
+    },
+    {
+      "marketplace": "PWCC",
+      "title": "Charizard Evolutions BGS 9.5",
+      "price": 900.0,
+      "grade": "BGS 9.5",
+      "date": "2026-02-21",
+      "url": "https://pwccmarketplace.com/search/Charizard%20Evolutions"
+    },
+    {
+      "marketplace": "PWCC",
+      "title": "Charizard Evolutions BGS 10",
+      "price": 1250.0,
+      "grade": "BGS 10",
+      "date": "2026-02-21",
+      "url": "https://pwccmarketplace.com/search/Charizard%20Evolutions"
+    }
+  ]
+}

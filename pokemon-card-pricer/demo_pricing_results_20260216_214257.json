@@ -1,0 +1,550 @@
+[
+  {
+    "success": true,
+    "source": "fresh",
+    "card_name": "Charizard",
+    "set_name": "Base Set",
+    "grade_summary": {
+      "Ungraded": {
+        "count": 16,
+        "min_price": 20.0,
+        "max_price": 760.01,
+        "avg_price": 332.745625,
+        "median_price": 310.0,
+        "recent_sales": [
+          {
+            "price": 20.0,
+            "marketplace": "eBay",
+            "date": "2026-02-16",
+            "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+          },
+          {
+            "price": 20.0,
+            "marketplace": "eBay",
+            "date": "2026-02-16",
+            "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+          },
+          {
+            "price": 290.0,
+            "marketplace": "eBay",
+            "date": "2026-02-16",
+            "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+          },
+          {
+            "price": 290.0,
+            "marketplace": "eBay",
+            "date": "2026-02-16",
+            "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+          },
+          {
+            "price": 500.0,
+            "marketplace": "eBay",
+            "date": "2026-02-16",
+            "url": "https://www.ebay.com/sch/i.html?_nkw=Charizard+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+          }
+        ]
+      },
+      "PSA 8": {
+        "count": 1,
+        "min_price": 300.0,
+        "max_price": 300.0,
+        "avg_price": 300.0,
+        "median_price": 300.0,
+        "recent_sales": [
+          {
+            "price": 300.0,
+            "marketplace": "TCGPlayer",
+            "date": "2026-02-16",
+            "url": "https://tcgplayer.com/search/Charizard%20Base%20Set"
+          }
+        ]
+      },
+      "PSA 9": {
+        "count": 2,
+        "min_price": 525.0,
+        "max_price": 900.0,
+        "avg_price": 712.5,
+        "median_price": 900.0,
+        "recent_sales": [
+          {
+            "price": 525.0,
+            "marketplace": "TCGPlayer",
+            "date": "2026-02-16",
+            "url": "https://tcgplayer.com/search/Charizard%20Base%20Set"
+          },
+          {
+            "price": 900.0,
+            "marketplace": "PWCC",
+            "date": "2026-02-16",
+            "url": "https://pwccmarketplace.com/search/Charizard%20Base%20Set"
+          }
+        ]
+      },
+      "PSA 10": {
+        "count": 2,
+        "min_price": 900.0,
+        "max_price": 1250.0,
+        "avg_price": 1075.0,
+        "median_price": 1250.0,
+        "recent_sales": [
+          {
+            "price": 900.0,
+            "marketplace": "TCGPlayer",
+            "date": "2026-02-16",
+            "url": "https://tcgplayer.com/search/Charizard%20Base%20Set"
+          },
+          {
+            "price": 1250.0,
+            "marketplace": "PWCC",
+            "date": "2026-02-16",
+            "url": "https://pwccmarketplace.com/search/Charizard%20Base%20Set"
+          }
+        ]
+      },
+      "BGS 9.5": {
+        "count": 1,
+        "min_price": 900.0,
+        "max_price": 900.0,
+        "avg_price": 900.0,
+        "median_price": 900.0,
+        "recent_sales": [
+          {
+            "price": 900.0,
+            "marketplace": "PWCC",
+            "date": "2026-02-16",
+            "url": "https://pwccmarketplace.com/search/Charizard%20Base%20Set"
+          }
+        ]
+      },
+      "BGS 10": {
+        "count": 1,
+        "min_price": 1250.0,
+        "max_price": 1250.0,
+        "avg_price": 1250.0,
+        "median_price": 1250.0,
+        "recent_sales": [
+          {
+            "price": 1250.0,
+            "marketplace": "PWCC",
+            "date": "2026-02-16",
+            "url": "https://pwccmarketplace.com/search/Charizard%20Base%20Set"
+          }
+        ]
+      }
+    },
+    "total_listings": 23,
+    "last_updated": "2026-02-16T21:42:51.197051",
+    "cache_expires": "2026-02-16T23:42:51.197060"
+  },
+  {
+    "success": true,
+    "source": "fresh",
+    "card_name": "Pikachu",
+    "set_name": "Base Set",
+    "grade_summary": {
+      "Ungraded": {
+        "count": 16,
+        "min_price": 10.0,
+        "max_price": 699.99,
+        "avg_price": 102.911875,
+        "median_price": 32.95,
+        "recent_sales": [
+          {
+            "price": 20.0,
+            "marketplace": "eBay",
+            "date": "2026-02-16",
+            "url": "https://www.ebay.com/sch/i.html?_nkw=Pikachu+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+          },
+          {
+            "price": 20.0,
+            "marketplace": "eBay",
+            "date": "2026-02-16",
+            "url": "https://www.ebay.com/sch/i.html?_nkw=Pikachu+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+          },
+          {
+            "price": 35.0,
+            "marketplace": "eBay",
+            "date": "2026-02-16",
+            "url": "https://www.ebay.com/sch/i.html?_nkw=Pikachu+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+          },
+          {
+            "price": 32.95,
+            "marketplace": "eBay",
+            "date": "2026-02-16",
+            "url": "https://www.ebay.com/sch/i.html?_nkw=Pikachu+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+          },
+          {
+            "price": 10.0,
+            "marketplace": "eBay",
+            "date": "2026-02-16",
+            "url": "https://www.ebay.com/sch/i.html?_nkw=Pikachu+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+          }
+        ]
+      },
+      "PSA 8": {
+        "count": 1,
+        "min_price": 50.0,
+        "max_price": 50.0,
+        "avg_price": 50.0,
+        "median_price": 50.0,
+        "recent_sales": [
+          {
+            "price": 50.0,
+            "marketplace": "TCGPlayer",
+            "date": "2026-02-16",
+            "url": "https://tcgplayer.com/search/Pikachu%20Base%20Set"
+          }
+        ]
+      },
+      "PSA 9": {
+        "count": 2,
+        "min_price": 87.5,
+        "max_price": 270.0,
+        "avg_price": 178.75,
+        "median_price": 270.0,
+        "recent_sales": [
+          {
+            "price": 87.5,
+            "marketplace": "TCGPlayer",
+            "date": "2026-02-16",
+            "url": "https://tcgplayer.com/search/Pikachu%20Base%20Set"
+          },
+          {
+            "price": 270.0,
+            "marketplace": "PWCC",
+            "date": "2026-02-16",
+            "url": "https://pwccmarketplace.com/search/Pikachu%20Base%20Set"
+          }
+        ]
+      },
+      "PSA 10": {
+        "count": 2,
+        "min_price": 150.0,
+        "max_price": 375.0,
+        "avg_price": 262.5,
+        "median_price": 375.0,
+        "recent_sales": [
+          {
+            "price": 150.0,
+            "marketplace": "TCGPlayer",
+            "date": "2026-02-16",
+            "url": "https://tcgplayer.com/search/Pikachu%20Base%20Set"
+          },
+          {
+            "price": 375.0,
+            "marketplace": "PWCC",
+            "date": "2026-02-16",
+            "url": "https://pwccmarketplace.com/search/Pikachu%20Base%20Set"
+          }
+        ]
+      },
+      "BGS 9.5": {
+        "count": 1,
+        "min_price": 270.0,
+        "max_price": 270.0,
+        "avg_price": 270.0,
+        "median_price": 270.0,
+        "recent_sales": [
+          {
+            "price": 270.0,
+            "marketplace": "PWCC",
+            "date": "2026-02-16",
+            "url": "https://pwccmarketplace.com/search/Pikachu%20Base%20Set"
+          }
+        ]
+      },
+      "BGS 10": {
+        "count": 1,
+        "min_price": 375.0,
+        "max_price": 375.0,
+        "avg_price": 375.0,
+        "median_price": 375.0,
+        "recent_sales": [
+          {
+            "price": 375.0,
+            "marketplace": "PWCC",
+            "date": "2026-02-16",
+            "url": "https://pwccmarketplace.com/search/Pikachu%20Base%20Set"
+          }
+        ]
+      }
+    },
+    "total_listings": 23,
+    "last_updated": "2026-02-16T21:42:53.073236",
+    "cache_expires": "2026-02-16T23:42:53.073244"
+  },
+  {
+    "success": true,
+    "source": "fresh",
+    "card_name": "Alakazam",
+    "set_name": "Base Set",
+    "grade_summary": {
+      "Ungraded": {
+        "count": 16,
+        "min_price": 12.0,
+        "max_price": 699.99,
+        "avg_price": 132.4975,
+        "median_price": 48.1,
+        "recent_sales": [
+          {
+            "price": 20.0,
+            "marketplace": "eBay",
+            "date": "2026-02-16",
+            "url": "https://www.ebay.com/sch/i.html?_nkw=Alakazam+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+          },
+          {
+            "price": 20.0,
+            "marketplace": "eBay",
+            "date": "2026-02-16",
+            "url": "https://www.ebay.com/sch/i.html?_nkw=Alakazam+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+          },
+          {
+            "price": 35.0,
+            "marketplace": "eBay",
+            "date": "2026-02-16",
+            "url": "https://www.ebay.com/sch/i.html?_nkw=Alakazam+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+          },
+          {
+            "price": 35.0,
+            "marketplace": "eBay",
+            "date": "2026-02-16",
+            "url": "https://www.ebay.com/sch/i.html?_nkw=Alakazam+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+          },
+          {
+            "price": 75.0,
+            "marketplace": "eBay",
+            "date": "2026-02-16",
+            "url": "https://www.ebay.com/sch/i.html?_nkw=Alakazam+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+          }
+        ]
+      },
+      "PSA 8": {
+        "count": 1,
+        "min_price": 40.0,
+        "max_price": 40.0,
+        "avg_price": 40.0,
+        "median_price": 40.0,
+        "recent_sales": [
+          {
+            "price": 40.0,
+            "marketplace": "TCGPlayer",
+            "date": "2026-02-16",
+            "url": "https://tcgplayer.com/search/Alakazam%20Base%20Set"
+          }
+        ]
+      },
+      "PSA 9": {
+        "count": 2,
+        "min_price": 70.0,
+        "max_price": 180.0,
+        "avg_price": 125.0,
+        "median_price": 180.0,
+        "recent_sales": [
+          {
+            "price": 70.0,
+            "marketplace": "TCGPlayer",
+            "date": "2026-02-16",
+            "url": "https://tcgplayer.com/search/Alakazam%20Base%20Set"
+          },
+          {
+            "price": 180.0,
+            "marketplace": "PWCC",
+            "date": "2026-02-16",
+            "url": "https://pwccmarketplace.com/search/Alakazam%20Base%20Set"
+          }
+        ]
+      },
+      "PSA 10": {
+        "count": 2,
+        "min_price": 120.0,
+        "max_price": 250.0,
+        "avg_price": 185.0,
+        "median_price": 250.0,
+        "recent_sales": [
+          {
+            "price": 120.0,
+            "marketplace": "TCGPlayer",
+            "date": "2026-02-16",
+            "url": "https://tcgplayer.com/search/Alakazam%20Base%20Set"
+          },
+          {
+            "price": 250.0,
+            "marketplace": "PWCC",
+            "date": "2026-02-16",
+            "url": "https://pwccmarketplace.com/search/Alakazam%20Base%20Set"
+          }
+        ]
+      },
+      "BGS 9.5": {
+        "count": 1,
+        "min_price": 180.0,
+        "max_price": 180.0,
+        "avg_price": 180.0,
+        "median_price": 180.0,
+        "recent_sales": [
+          {
+            "price": 180.0,
+            "marketplace": "PWCC",
+            "date": "2026-02-16",
+            "url": "https://pwccmarketplace.com/search/Alakazam%20Base%20Set"
+          }
+        ]
+      },
+      "BGS 10": {
+        "count": 1,
+        "min_price": 250.0,
+        "max_price": 250.0,
+        "avg_price": 250.0,
+        "median_price": 250.0,
+        "recent_sales": [
+          {
+            "price": 250.0,
+            "marketplace": "PWCC",
+            "date": "2026-02-16",
+            "url": "https://pwccmarketplace.com/search/Alakazam%20Base%20Set"
+          }
+        ]
+      }
+    },
+    "total_listings": 23,
+    "last_updated": "2026-02-16T21:42:55.148731",
+    "cache_expires": "2026-02-17T03:42:55.148740"
+  },
+  {
+    "success": true,
+    "source": "fresh",
+    "card_name": "Energy",
+    "set_name": "Base Set",
+    "grade_summary": {
+      "Ungraded": {
+        "count": 14,
+        "min_price": 10.0,
+        "max_price": 699.99,
+        "avg_price": 110.71285714285715,
+        "median_price": 28.29,
+        "recent_sales": [
+          {
+            "price": 20.0,
+            "marketplace": "eBay",
+            "date": "2026-02-16",
+            "url": "https://www.ebay.com/sch/i.html?_nkw=Energy+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+          },
+          {
+            "price": 20.0,
+            "marketplace": "eBay",
+            "date": "2026-02-16",
+            "url": "https://www.ebay.com/sch/i.html?_nkw=Energy+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+          },
+          {
+            "price": 157.5,
+            "marketplace": "eBay",
+            "date": "2026-02-16",
+            "url": "https://www.ebay.com/sch/i.html?_nkw=Energy+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+          },
+          {
+            "price": 10.0,
+            "marketplace": "eBay",
+            "date": "2026-02-16",
+            "url": "https://www.ebay.com/sch/i.html?_nkw=Energy+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+          },
+          {
+            "price": 10.0,
+            "marketplace": "eBay",
+            "date": "2026-02-16",
+            "url": "https://www.ebay.com/sch/i.html?_nkw=Energy+Base+Set+pokemon+card+-fake+-proxy+-custom&LH_Sold=1&LH_Complete=1&_sop=13"
+          }
+        ]
+      },
+      "PSA 8": {
+        "count": 1,
+        "min_price": 40.0,
+        "max_price": 40.0,
+        "avg_price": 40.0,
+        "median_price": 40.0,
+        "recent_sales": [
+          {
+            "price": 40.0,
+            "marketplace": "TCGPlayer",
+            "date": "2026-02-16",
+            "url": "https://tcgplayer.com/search/Energy%20Base%20Set"
+          }
+        ]
+      },
+      "PSA 9": {
+        "count": 2,
+        "min_price": 70.0,
+        "max_price": 180.0,
+        "avg_price": 125.0,
+        "median_price": 180.0,
+        "recent_sales": [
+          {
+            "price": 70.0,
+            "marketplace": "TCGPlayer",
+            "date": "2026-02-16",
+            "url": "https://tcgplayer.com/search/Energy%20Base%20Set"
+          },
+          {
+            "price": 180.0,
+            "marketplace": "PWCC",
+            "date": "2026-02-16",
+            "url": "https://pwccmarketplace.com/search/Energy%20Base%20Set"
+          }
+        ]
+      },
+      "PSA 10": {
+        "count": 2,
+        "min_price": 120.0,
+        "max_price": 250.0,
+        "avg_price": 185.0,
+        "median_price": 250.0,
+        "recent_sales": [
+          {
+            "price": 120.0,
+            "marketplace": "TCGPlayer",
+            "date": "2026-02-16",
+            "url": "https://tcgplayer.com/search/Energy%20Base%20Set"
+          },
+          {
+            "price": 250.0,
+            "marketplace": "PWCC",
+            "date": "2026-02-16",
+            "url": "https://pwccmarketplace.com/search/Energy%20Base%20Set"
+          }
+        ]
+      },
+      "BGS 9.5": {
+        "count": 1,
+        "min_price": 180.0,
+        "max_price": 180.0,
+        "avg_price": 180.0,
+        "median_price": 180.0,
+        "recent_sales": [
+          {
+            "price": 180.0,
+            "marketplace": "PWCC",
+            "date": "2026-02-16",
+            "url": "https://pwccmarketplace.com/search/Energy%20Base%20Set"
+          }
+        ]
+      },
+      "BGS 10": {
+        "count": 1,
+        "min_price": 250.0,
+        "max_price": 250.0,
+        "avg_price": 250.0,
+        "median_price": 250.0,
+        "recent_sales": [
+          {
+            "price": 250.0,
+            "marketplace": "PWCC",
+            "date": "2026-02-16",
+            "url": "https://pwccmarketplace.com/search/Energy%20Base%20Set"
+          }
+        ]
+      }
+    },
+    "total_listings": 21,
+    "last_updated": "2026-02-16T21:42:57.259786",
+    "cache_expires": "2026-02-17T03:42:57.259794"
+  }
+]

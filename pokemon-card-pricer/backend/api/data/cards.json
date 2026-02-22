@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Charizard",
+    "set_name": "Base Set",
+    "set_number": "4/102",
+    "rarity": "Holo Rare",
+    "hp": 120,
+    "card_type": "Fire",
+    "artist": "",
+    "release_date": "1999-01-09",
+    "tcg_player_id": null
+  },
+  {
+    "name": "Pikachu",
+    "set_name": "Base Set",
+    "set_number": "58/102",
+    "rarity": "Common",
+    "hp": 40,
+    "card_type": "Lightning",
+    "artist": "",
+    "release_date": "1999-01-09",
+    "tcg_player_id": null
+  },
+  {
+    "name": "Blastoise",
+    "set_name": "Base Set",
+    "set_number": "2/102",
+    "rarity": "Holo Rare",
+    "hp": 100,
+    "card_type": "Water",
+    "artist": "",
+    "release_date": "1999-01-09",
+    "tcg_player_id": null
+  },
+  {
+    "name": "Venusaur",
+    "set_name": "Base Set",
+    "set_number": "15/102",
+    "rarity": "Holo Rare",
+    "hp": 100,
+    "card_type": "Grass",
+    "artist": "",
+    "release_date": "1999-01-09",
+    "tcg_player_id": null
+  },
+  {
+    "name": "Charizard",
+    "set_name": "Evolutions",
+    "set_number": "11/108",
+    "rarity": "Holo Rare",
+    "hp": 150,
+    "card_type": "Fire",
+    "artist": "",
+    "release_date": "2016-11-02",
+    "tcg_player_id": null
+  }
+]
