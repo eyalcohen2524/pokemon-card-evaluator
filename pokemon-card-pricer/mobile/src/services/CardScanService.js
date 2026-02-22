@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Backend API configuration
-const API_BASE_URL = __DEV__ ? 'http://localhost:8001' : 'https://your-production-api.com';
+const API_BASE_URL = __DEV__ ? 'https://pokemon-card-evaluator-6zuj.onrender.com' : 'https://pokemon-card-evaluator-6zuj.onrender.com';
 
 const api = axios.create({
   baseURL: API_BASE_URL,
