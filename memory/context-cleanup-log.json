@@ -1,0 +1,19 @@
+[
+  {
+    "timestamp": "2026-03-09T07:30:00-08:00",
+    "action": "session_file_deleted",
+    "sessionId": "8a811598-abaf-4b78-b4aa-87b96e8457f2",
+    "reason": "context_tokens_exceeded_150k",
+    "contextTokens": 200000,
+    "method": "manual_file_deletion"
+  },
+  {
+    "timestamp": "2026-03-11T10:31:00-08:00",
+    "action": "session_monitored",
+    "sessionId": "d6cdc332-21f0-426e-b04b-db5b265d5108",
+    "contextTokens": 200000,
+    "totalTokens": 20894,
+    "status": "approaching_context_limit",
+    "note": "Monitor for context growth - already at 200k context tokens"
+  }
+]

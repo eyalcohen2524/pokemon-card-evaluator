@@ -1,0 +1,23 @@
+{
+  "platforms": {
+    "discord": {
+      "channels": {},
+      "config": {
+        "messageLimit": 75,
+        "warningThreshold": 60,
+        "inactivityHours": 3
+      }
+    },
+    "slack": {
+      "channels": {},
+      "config": {
+        "channelMessageLimit": 50,
+        "dmMessageLimit": 60,
+        "warningThreshold": 40,
+        "useThreads": true
+      }
+    }
+  },
+  "lastReset": null,
+  "resetCount": 0
+}

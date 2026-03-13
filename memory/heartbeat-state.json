@@ -1,0 +1,22 @@
+{
+  "lastChecks": {
+    "email": null,
+    "calendar": null,
+    "weather": null,
+    "kanban": null,
+    "dailyDigest": null
+  },
+  "dailyDigestCreated": {
+    "2026-02-04": false,
+    "2026-02-05": false
+  },
+  "currentTasks": {
+    "task-004": "Process remaining Oblsk campaign creators (high priority)"
+  },
+  "notes": {
+    "emailProvider": "Gmail via gog CLI",
+    "kanbanFile": "tasks.json",
+    "digestTimeWindow": "8-10 AM PST",
+    "oblskProgress": "5 creators processed, ~20+ remaining"
+  }
+}
