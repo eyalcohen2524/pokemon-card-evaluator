@@ -1,0 +1,20 @@
+{
+  "columns": ["backlog", "in-progress", "done"],
+  "tasks": [
+    {
+      "id": "task-004",
+      "title": "Process remaining Oblsk campaign creators",
+      "description": "Continue checking unchecked creators in Oblsk Campaign Discovery for French/German targeting. Use efficient workflow: check country first, then email only if match. Spawn sub-agents with Haiku for batch processing.",
+      "column": "done",
+      "priority": "high",
+      "createdAt": "2026-02-05T08:00:00Z",
+      "completedAt": "2026-02-05T21:49:00Z",
+      "notes": {
+        "final_results": "COMPLETED ✅ Total processed: 14 creators (7 original + 7 by sub-agent)",
+        "campaign_adds": "5 German creators added total (aboutleonii, janine.griesser, drogeriebuddy, liovegas + 1 original)",
+        "archived": "9+ creators archived (not French/German)",
+        "success_rate": "High quality German creators with business emails ready for outreach"
+      }
+    }
+  ]
+}
